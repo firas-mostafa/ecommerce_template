@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../TextStyle/fonts_manager.dart';
 import '../TextStyle/text_style_manager.dart';
-import '../values_manager.dart';
+import '../Values/values_manager.dart';
 import 'color_manager.dart';
 
 ThemeData getApplicationTheme() {
